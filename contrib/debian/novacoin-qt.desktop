@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=JokerCoin
+Comment=JokerCoin P2P Cryptocurrency
+Comment[ru]=JokerCoin, P2P криптовалюта
+Comment[fr]=JokerCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=JokerCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/JokerCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/JokerCoin80.xpm
+MimeType=x-scheme-handler/JokerCoin;
+Categories=Office;

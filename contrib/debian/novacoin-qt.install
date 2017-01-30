@@ -1,0 +1,5 @@
+JokerCoin-qt usr/bin
+share/pixmaps/JokerCoin32.xpm usr/share/pixmaps
+share/pixmaps/JokerCoin80.xpm usr/share/pixmaps
+debian/JokerCoin-qt.desktop usr/share/applications
+debian/JokerCoin-qt.protocol usr/share/kde4/services/

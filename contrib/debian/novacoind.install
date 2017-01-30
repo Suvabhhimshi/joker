@@ -1,0 +1,2 @@
+debian/bin/JokerCoind usr/bin
+src/JokerCoind usr/lib/JokerCoin
